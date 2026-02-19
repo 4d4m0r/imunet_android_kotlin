@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local environment
+local.properties
+.env
+.env.*
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java
+*.class
+*.log
+
+# Android captures
+captures/
+
+# Keystore / signing
+*.jks
+*.keystore
+*.pem
+
+# Native build outputs
+.externalNativeBuild/
+.cxx/
+
+# Firebase / Google services (ignore only if you do not want to commit)
+# google-services.json
+# app/google-services.json
