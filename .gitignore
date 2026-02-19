@@ -2,6 +2,7 @@
 .gradle/
 build/
 */build/
+*.hprof
 
 # Local environment
 local.properties
